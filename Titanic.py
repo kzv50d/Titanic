@@ -6,7 +6,7 @@ from sklearn.tree import DecisionTreeClassifier
 
 
 st.write(''' # Predicción del Titanic ''')
-st.image("01-titantic-pictures.jpg", caption="El Titanic bajo el agua, foto actual (2026)")
+st.image("01-titantic-pictures.png", caption="El Titanic bajo el agua, foto actual (2026)")
 
 st.header('Datos de captura')
 
